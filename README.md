@@ -50,4 +50,4 @@
 ![Скриншот](/image/image-10.png)
 
 
-## Ustoz qale chiqipti iltimos uyga vazifani baholab turganda feedback berin ketin.
+## Ustoz qale chiqipti iltimos uyga vazifani baholab turganda feedback berib ketin.
